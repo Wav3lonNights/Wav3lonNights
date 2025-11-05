@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Wav3lonNights
-- 👀 I’m interested in viruses
-- 🌱 I’m currently learning python
+я еблан
